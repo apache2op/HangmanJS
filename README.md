@@ -9,7 +9,7 @@ The traditional hangman puzzle game written as prototype object class in vanilla
 ## Links
 
 - Project URL: [GitHub Repository](https://github.com/apache2op/HangmanJS)
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://apache2op.github.io/HangmanJS/)
 
 ## Built with
 
